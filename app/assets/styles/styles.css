@@ -1,14 +1,8 @@
-$mainYellow: #D1B37F;
+@import "normalize.css";
+@import "base/_global";
+@import "modules/_large-hero";
 
-body {
-  color: $mainYellow;
-  padding: 25px;
-  margin: 10px;
-  columns: 300px 2;
-}
-.box {
-  a {
-    display: block;
-    padding: 10px;
-  }
-}
+
+
+
+
